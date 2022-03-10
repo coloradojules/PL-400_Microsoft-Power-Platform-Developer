@@ -73,7 +73,7 @@ In this exercise, you will create your Azure DevOps account that you will be usi
 
 6. Create a new organization (find blue box in upper right-hand corner of the screen) using the Default directory. Provide a unique Azure DevOps Organization name like FL-PermitManagement (replace FL with your first and last initials), select your region and click Continue.
 
-8. Choose the newly created organization, then choose Organization settings on the left-hand side of the screen
+8. Choose the newly created organization, then choose Organization settings on the left side of the screen
 
 9. Navigate to Organization settings -> Billing -> Setup billing -> Select an Azure subscription, then select the Azure Pass subscription, then choose “MS Hosted CI/CD” and set the field “Paid parallel jobs” to 1. Then click SAVE in the blue box at the bottom. 
 
