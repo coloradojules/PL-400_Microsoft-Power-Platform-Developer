@@ -11,7 +11,7 @@ Attention to MCTs: Please make sure you are familiar with the [TrainerPrepGuide]
 Scenario
 --------
 
-In this Module 0 lab, you will acquire a Power Platform trial tenant, access the Power Platform admin center and setup your Azure DevOps account. In the admin center, we will create an individual environment for configuration during the course.
+In this Module 0 lab, you will acquire a Power Platform trial tenant, access the Power Platform admin center and setup your Azure DevOps account. In the admin center, you will create an individual environment for configuration during the course.
 
 Exercise 1 – Acquire your Power Platform trial tenant 
 ------------------------------------------
